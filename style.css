@@ -89,6 +89,11 @@ textarea {
 ::placeholder {
     text-align: right;
     margin-right: 10px;
+    color: grey;
+}
+
+select {
+    color: grey;
 }
 
 button {
