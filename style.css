@@ -7,6 +7,7 @@
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
+    background-color: whitesmoke;
 }
 
 input[type="text"],
@@ -224,5 +225,6 @@ textarea::placeholder {
 
     select {
         height: 42px;
+        margin-left: -5px;
     }
 }
