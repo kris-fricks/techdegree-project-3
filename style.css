@@ -218,12 +218,11 @@ textarea::placeholder {
     }
 
     #zip {
-        display: inline-flex;
-        width: 25%;
+        flex: 1;
+        margin-right: 340px;
     }
 
-    .zip-label {
-        margin-right: 75px;
+    select {
+        height: 42px;
     }
 }
-
